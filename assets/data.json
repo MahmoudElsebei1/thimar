@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": null,
+      "description": null,
+      "media": "https://thimar.amr.aait-d.com/storage/images/category/bUnDqTaKYtoEs1ro4z1aRypsTzWj2e9xctFXpjuk.jpg"
+    },
+    {
+      "id": 5,
+      "name": null,
+      "description": null,
+      "media": "https://thimar.amr.aait-d.com/storage/images/category/RCw3gSlFJK3qz6GMKVFT1H9ywfn3rcRe3rBBgO6d.jpg"
+    },
+    {
+      "id": 3,
+      "name": null,
+      "description": null,
+      "media": "https://thimar.amr.aait-d.com/storage/images/category/0aT7xiFHn9thz24FgWQxkKXITxoiqPHP5kRl6Fk5.jpg"
+    },
+    {
+      "id": 4,
+      "name": null,
+      "description": null,
+      "media": "https://thimar.amr.aait-d.com/storage/images/category/Za8wEmi38vYdX3kjAoxiRoX95euSldYz2IWUZLNC.jpg"
+    }
+  ],
+  "links": {
+    "first": "https://thimar.amr.aait-d.com/api/categories?page=1",
+    "last": "https://thimar.amr.aait-d.com/api/categories?page=1",
+    "prev": null,
+    "next": null
+  },
+  "meta": {
+    "current_page": 1,
+    "from": 1,
+    "last_page": 1,
+    "links": [
+      {
+        "url": null,
+        "label": "&laquo; Previous",
+        "active": false
+      },
+      {
+        "url": "https://thimar.amr.aait-d.com/api/categories?page=1",
+        "label": "1",
+        "active": true
+      },
+      {
+        "url": null,
+        "label": "Next &raquo;",
+        "active": false
+      }
+    ],
+    "path": "https://thimar.amr.aait-d.com/api/categories",
+    "per_page": 5,
+    "to": 4,
+    "total": 4
+  },
+  "status": "success",
+  "message": ""
+}
